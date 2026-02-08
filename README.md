@@ -1,4 +1,9 @@
-# Chef en Casa - Gestión de Despensa y Recetas
+# DAD - PROYECTO FINAL
+## Chef en Casa - Gestión de Despensa y Recetas
+### IES El Rincón - 2º DAM Semi 2025-2026
+### Alumno: Leandro Andrés Trilnick Sculsky
+
+## Descripción del Proyecto
 
 Bienvenido a **Chef en Casa**, una aplicación web diseñada para ayudarte a organizar tu cocina. Gestiona tus ingredientes, controla tu inventario y ubica tus tiendas favoritas, todo desde una interfaz moderna y fácil de usar.
 
@@ -83,7 +88,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local:
 
 6.  **Ejecutar la aplicación**
     Necesitarás dos terminales:
-    
+
     *Terminal 1 (Backend):*
     ```bash
     php artisan serve
@@ -125,7 +130,3 @@ El código fuente se encuentra en el siguiente repositorio:
 
 [GitHub](https://github.com/leandrot/DADDAM2PF)    
 
-
-
----
-*Desarrollado como proyecto educativo para 2º DAM.*
